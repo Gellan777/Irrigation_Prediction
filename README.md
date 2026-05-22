@@ -104,7 +104,6 @@ Try ensemble models (XGBoost / LightGBM)
 Hyperparameter tuning (Optuna / Keras Tuner)
 Deploy as Flask / FastAPI web app
 Add real-time sensor integration
-# 👩‍💻 Author
 
-Gellan Romany
-Machine Learning Developer
+
+
